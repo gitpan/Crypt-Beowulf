@@ -1,0 +1,9 @@
+Revision history for Perl extension Crypt::Beowulf.
+        Date Written:  06-Oct-1999
+        Last Updated:  02-May-2000
+
+v0.2.1    Fixed minor permutation error.
+v0.2.0    Added shuffled code stream.
+v0.1.7    Added verbose output.
+v0.1.5    Fixed encrypted output to disguise native formatting.
+v0.1.0    First workable product. Native formatting maintained.
